@@ -1,0 +1,24 @@
+{
+  "name": "city:south",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "city:2high_south",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "city:3high_south",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
